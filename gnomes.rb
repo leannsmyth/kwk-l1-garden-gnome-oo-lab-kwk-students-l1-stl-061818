@@ -8,4 +8,5 @@ class GardenGnome
     @gnaw = gnaw
     @shout = shout
     @introduce_self = introduce_self
-    
+  end
+  
