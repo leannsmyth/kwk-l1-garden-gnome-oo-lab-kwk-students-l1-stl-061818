@@ -1,1 +1,2 @@
 class GardenGnome
+  def initialize
