@@ -1,4 +1,4 @@
 class GardenGnome
   
-  attr
+  attr_accessor
   def initialize
