@@ -14,3 +14,4 @@ class GardenGnome
   end
 end
 
+gnome1
