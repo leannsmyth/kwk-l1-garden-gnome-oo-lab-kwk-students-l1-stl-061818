@@ -14,4 +14,4 @@ class GardenGnome
   end
 end
 
-gnome1 = GardenGnome.new
+gnome1 = GardenGnome.new("Walter the Worst")
